@@ -1,3 +1,6 @@
+---
+[![](https://visitcount.itsvg.in/api?id=ohorban&icon=7&color=8)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 Ayo I'm alex! I am a math and data science student at Claremont McKenna College. Hope you enjoy my github
 
@@ -14,9 +17,3 @@ Ayo I'm alex! I am a math and data science student at Claremont McKenna College.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=ohorban&icon=7&color=8)](https://visitcount.itsvg.in)
